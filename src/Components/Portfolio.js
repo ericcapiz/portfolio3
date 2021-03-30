@@ -9,7 +9,7 @@ const Portfolio = ({ data }) => {
       return (
         <div key={projects.title} className="columns portfolio-item">
           <div className="item-wrap">
-            <a href={projects.url} title={projects.title}>
+            <a target="_blank" href={projects.url} title={projects.title}>
               <img alt={projects.title} src={projectImage} />
               <div className="overlay">
                 <div className="portfolio-item-meta">
@@ -21,8 +21,9 @@ const Portfolio = ({ data }) => {
                 <i className="fa fa-link"></i>
               </div>
             </a>
-            {projects.title}
           </div>
+          {projects.title} <br />
+          <a target="_blank" href={projects.code}>View Code</a>
         </div>
       );
     });
