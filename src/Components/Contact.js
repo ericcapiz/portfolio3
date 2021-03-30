@@ -177,12 +177,11 @@ const Contact = () => {
               </div>
               <aside className="four columns footer-widgets">
                 <div className="widget widget_contact">
-                  <h4>Address and Phone</h4>
+                  <h4>Contact Info:</h4>
                   <p className="address">
                     Eric Capiz
                     <br />
                     ericcapiz@gmail.com
-                    <br />
                     <br />
                     Chicago, IL
                     <br />
