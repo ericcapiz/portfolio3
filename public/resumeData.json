@@ -46,7 +46,7 @@
           "company": "Self Employed",
           "title": "Freelance Developer",
           "years": "Jan '21 - Present",
-          "description": "While currently a student, I further my skills by working with clients to build landing pages for their buisness"
+          "description": "While currently a student, I further my skills by working with clients to build landing pages for their business"
         }
       ],
       "skills": [
@@ -102,7 +102,13 @@
           "image": "snaps.PNG",
           "url": "https://sigma-snaps.netlify.app/",
           "code": "https://github.com/ericcapiz/Sigma-Snaps"
-
+        },
+        {
+          "title": "Zeta Films (React JS)",
+          "category": "",
+          "image": "films.PNG",
+          "url": "https://zeta-films.vercel.app/",
+          "code": "https://github.com/ericcapiz/zeta-films"
         }
       ]
     },
