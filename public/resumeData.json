@@ -82,20 +82,7 @@
     },
     "portfolio": {
       "projects": [
-        {
-          "title": "Gamma Games (React JS)",
-          "category": "",
-          "image": "games2.PNG",
-          "url": "https://ggs.vercel.app/",
-          "code":"https://github.com/ericcapiz/gamma-games"
-        },
-        {
-          "title": "Omega Music (React JS)",
-          "category": "",
-          "image": "music.PNG",
-          "url": "https://omp.vercel.app",
-          "code": "https://github.com/ericcapiz/music-player"
-        },
+        
         {
           "title": "Sigma Snap (MERN Stack)",
           "category": "",
