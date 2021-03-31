@@ -4,7 +4,7 @@
       "occupation": "Freelance Web Developer",
       "description": "It's Not Just What You Build, It's How You Do It",
       "image": "profilepic.jpg",
-      "bio": "Based in the Chicagoland area, and specialize in front-end development. I am a freelance Web Developer",
+      "bio": "I describe myself as a passionate developer who loves coding and focuses on crafting great web experiences. I take great pride in not only being able to complete work to the high standard you'd expect but also go the extra mile wherever possible. I enjoy getting to know a business, its goals, and how I can best apply myself to make sure your website will succeed.",
       "contactmessage": "If you are a business in the need of a website or an update, or an employer looking to hire, feel free to reach out and contact me!",
       "email": "ericcapiz@gmail.com",
       "phone": "443-307-3937",
@@ -46,7 +46,7 @@
           "company": "Self Employed",
           "title": "Freelance Developer",
           "years": "Jan '21 - Present",
-          "description": "While currently a student, I further my skills by working with clients to build landing pages for their business"
+          "description": "While currently a student, I further my skills by working with clients to build landing pages for their business."
         }
       ],
       "skills": [
@@ -115,11 +115,11 @@
     "testimonials": {
       "testimonials": [
         {
-          "text": "Eric is absolutely excellent, his depth of knowledge & his mentorship really meant a lot too... I would definitely recommend",
+          "text": "Eric is absolutely excellent, his depth of knowledge & his mentorship really meant a lot too... I would definitely recommend!",
           "user": "Francisco Hernandez"
         },
         {
-          "text": "Eric has been AWESOME! He's reliable, creative, friendly, and has delivered above and beyond my expectations each and every time that I've worked with him",
+          "text": "Eric has been AWESOME! He's reliable, creative, friendly, and has delivered above and beyond my expectations each and every time that I've worked with him!",
           "user": "Daniel Terry"
         }
       ]
