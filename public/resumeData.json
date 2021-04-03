@@ -96,6 +96,13 @@
           "image": "films.PNG",
           "url": "https://zeta-films.vercel.app/",
           "code": "https://github.com/ericcapiz/zeta-films"
+        },
+        {
+          "title": "Covid Tracker (React JS)",
+          "category": "",
+          "image": "covid.PNG",
+          "url": "https://covid-vert-zeta.vercel.app/",
+          "code": "https://github.com/ericcapiz/covid"
         }
       ]
     },
