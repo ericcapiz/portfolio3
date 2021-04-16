@@ -73,10 +73,6 @@
         {
             "name": "Mongo",
             "level": "65%"
-          },
-          {
-            "name": "SQL",
-            "level": "65%"
           }
       ]
     },
