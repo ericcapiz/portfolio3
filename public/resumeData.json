@@ -103,6 +103,13 @@
           "image": "covid.PNG",
           "url": "https://covid-vert-zeta.vercel.app/",
           "code": "https://github.com/ericcapiz/covid"
+        },
+        {
+          "title": "Psi Shop (React JS)",
+          "category": "",
+          "image": "psi.PNG",
+          "url": "https://psi-shop.netlify.app/",
+          "code": "https://github.com/ericcapiz/psi-shop"
         }
       ]
     },
