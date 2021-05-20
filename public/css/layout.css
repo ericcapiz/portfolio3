@@ -436,8 +436,9 @@ ul#nav li.current a { color: #F06000; }
    display: flex;
    justify-content: space-between;
    flex-direction: column;
-   font-size: 3rem;
+   font-size: 2.2rem;
 }
+
 
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
