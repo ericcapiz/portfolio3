@@ -106,6 +106,13 @@
           "image": "psi.PNG",
           "url": "https://psi-shop.netlify.app/",
           "code": "https://github.com/ericcapiz/psi-shop"
+        },
+        {
+          "title": "Nando's Cake (React JS)",
+          "category": "",
+          "image": "cake.PNG",
+          "url": "https://nandos-cakes2.vercel.app/",
+          "code": "https://github.com/ericcapiz/nandos-cakes2"
         }
       ]
     },
