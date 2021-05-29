@@ -80,35 +80,43 @@
       "projects": [
         
         {
-          "title": "Sigma Snap (MERN Stack)",
+          "title": "Sigma Snap (MERN)",
           "category": "",
           "image": "snaps.PNG",
           "url": "https://sigma-snaps.netlify.app/",
           "code": "https://github.com/ericcapiz/Sigma-Snaps"
         },
         {
-          "title": "Zeta Films (React JS)",
-          "category": "",
-          "image": "films.PNG",
-          "url": "https://zeta-films.vercel.app/",
-          "code": "https://github.com/ericcapiz/zeta-films"
-        },
-        {
-          "title": "Covid Tracker (React JS)",
-          "category": "",
-          "image": "covid.PNG",
-          "url": "https://covid-vert-zeta.vercel.app/",
-          "code": "https://github.com/ericcapiz/covid"
-        },
-        {
-          "title": "Psi Shop (React JS)",
+          "title": "Psi Shop (Commerce/React)",
           "category": "",
           "image": "psi.PNG",
           "url": "https://psi-shop.netlify.app/",
           "code": "https://github.com/ericcapiz/psi-shop"
         },
         {
-          "title": "Nando's Cake (React JS)",
+          "title": "Express Diary (Mongodb/EJS/Express)",
+          "category": "",
+          "image": "express.PNG",
+          "url": "https://expressjs-diary.herokuapp.com/",
+          "code": "https://github.com/ericcapiz/express-demo"
+        },
+        {
+          "title": "Zeta Films (React)",
+          "category": "",
+          "image": "films.PNG",
+          "url": "https://zeta-films.vercel.app/",
+          "code": "https://github.com/ericcapiz/zeta-films"
+        },
+        {
+          "title": "Covid Tracker (React)",
+          "category": "",
+          "image": "covid.PNG",
+          "url": "https://covid-vert-zeta.vercel.app/",
+          "code": "https://github.com/ericcapiz/covid"
+        },
+        
+        {
+          "title": "Nando's Cake (React)",
           "category": "",
           "image": "cake.PNG",
           "url": "https://nandos-cakes2.vercel.app/",
