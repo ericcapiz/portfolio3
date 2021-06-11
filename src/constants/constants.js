@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Sigma Snap',
     description: "This app will allow users to register/log-in and upload a post that will contain an image, title, message and tags. Each post will render the users name and display how long ago the post was created.",
-      image: '/images/snaps.png',
+      image: './images/snaps.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/ericcapiz/Sigma-Snaps',
     visit: 'https://sigma-snaps.netlify.app/',
