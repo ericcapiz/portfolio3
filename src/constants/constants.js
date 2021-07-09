@@ -28,12 +28,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Zeta Films',
-    description: "This app will allow users to search for any movie and save the movie or add it to the thier watched list. Users can move movies back and forth from saved to watched and vice versa as well as delete the movie from either list.",
-    image: '/images/films.PNG',
-    tags: ['React', 'Context', 'JWT'],
-    source: 'https://github.com/ericcapiz/zeta-films',
-    visit: 'https://zeta-films.vercel.app/',
+    title: 'Zeta Movies',
+    description: "This app will allow users to search for any movie and can click on any movie listed to view the movie card for additional info on the movie",
+    image: '/images/zeta1.PNG',
+    tags: ['React', 'Styled Components', 'State Management'],
+    source: 'https://github.com/ericcapiz/zeta-movies',
+    visit: 'https://zeta-movies.vercel.app/',
     id: 3,
   },
 
