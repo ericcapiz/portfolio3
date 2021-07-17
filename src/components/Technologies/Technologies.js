@@ -14,10 +14,13 @@ const Technologies = () =>  (
         <DiReact size="3rem" />
         <ListContainer>
           <ListTitle>Front-End:</ListTitle>
-          <ListParagraph>HTML5</ListParagraph>
-          <ListParagraph>CSS3</ListParagraph>
+          <ListParagraph>HTML5/CSS3</ListParagraph>
           <ListParagraph>Javascript</ListParagraph>
           <ListParagraph>React</ListParagraph>
+          <ListParagraph>Redux</ListParagraph>
+          <ListParagraph>Context API</ListParagraph>
+          <ListParagraph>Axios/Fetch</ListParagraph>
+          <ListParagraph>HTTP Requests</ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
@@ -28,6 +31,7 @@ const Technologies = () =>  (
           <ListParagraph>Express</ListParagraph>
           <ListParagraph>Mongo</ListParagraph>
           <ListParagraph>SQL3</ListParagraph>
+          <ListParagraph>RESTful API</ListParagraph>
           
         </ListContainer>
       </ListItem>
