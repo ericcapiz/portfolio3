@@ -29,7 +29,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End:</ListTitle>
           <ListParagraph>Node</ListParagraph>
           <ListParagraph>Express</ListParagraph>
-          <ListParagraph>Mongo</ListParagraph>
+          <ListParagraph>MongoDb</ListParagraph>
           <ListParagraph>SQL3</ListParagraph>
           <ListParagraph>RESTful API</ListParagraph>
           
