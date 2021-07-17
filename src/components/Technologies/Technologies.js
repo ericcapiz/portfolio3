@@ -23,6 +23,7 @@ const Technologies = () =>  (
           <ListParagraph>HTTP Requests</ListParagraph>
         </ListContainer>
       </ListItem>
+      <DiFirebase size=".03rem" />
       <ListItem>
         <DiFirebase size="3rem" />
         <ListContainer>
