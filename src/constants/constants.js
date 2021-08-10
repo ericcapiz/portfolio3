@@ -19,12 +19,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Express Diary',
-    description: "This app is primarily backend related. Users can Add new entries to the diary, update and delete as well. Future features will allow users to log in and view their own entries.",
-      image: '/images/express.PNG',
-      tags: ['EJS', 'Express', 'Node', 'Mongo'],
-    source: 'https://github.com/ericcapiz/express-demo',
-    visit: 'https://expressjs-diary.herokuapp.com/',
+    title: 'Lost My Stuff',
+    description: "A lost and found site for users to create posts for items lost or found. This is a MERN application that allows users to register/login and create posts for items. Users can update/delete their own posts. Users can display posts by category as well as by user if user has multiple posts.",
+      image: '/images/lost.PNG',
+      tags: ['Mongo', 'Express', 'React', 'Node'],
+    source: 'https://github.com/ericcapiz/lost-found',
+    visit: 'https://lost-my-stuff.vercel.app/',
     id: 2,
   },
   {
