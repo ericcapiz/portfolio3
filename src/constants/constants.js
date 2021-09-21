@@ -75,7 +75,7 @@ export const projects = [
   },
   {
     title: 'Nandos Cakes',
-    description: "I developed this site for a chicago start-up bakery business. They have a fb channel with over 350 followers and I offered my services to help market the business by creating their site.",
+    description: "I developed this site for a Chicago start-up bakery business. They have a FB channel with over 350 followers and I offered my services to help market the business by creating their site.",
     image: '/images/cake.PNG',
     tags: ['React', 'Email.js', 'Framer-Motion'],
     source: 'https://github.com/ericcapiz/nandos-cakes2',
