@@ -28,7 +28,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Crpto Info',
+    title: 'Crypto Info',
     description: "This app will allow users to view current stats and news articles on various crypto currencies. Users can search for most crypto currencies to see stats, price changes, and news articles.",
       image: '/images/crypto.PNG',
       tags: ['React', 'Redux Toolkit', 'ANT Design', 'Rapid API'],
