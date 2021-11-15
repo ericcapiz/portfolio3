@@ -1,14 +1,14 @@
 
 export const projects = [
-  {
-    title: 'Dev Chat',
-    description: "This app will allow users to create chat channels. You can direct message other people. You can respond as normal or add a gif/image and even be able to use emjoi's. If a user signs up and adds their cell number, they can receive text notifications as well.",
-      image: '/images/chat.PNG',
-      tags: ['React', 'Express', 'Node'],
-    source: 'https://github.com/ericcapiz/chat',
-    visit: 'https://devs-chat.netlify.app/',
-    id: 12,
-  },
+  // {
+  //   title: 'Dev Chat',
+  //   description: "This app will allow users to create chat channels. You can direct message other people. You can respond as normal or add a gif/image and even be able to use emjoi's. If a user signs up and adds their cell number, they can receive text notifications as well.",
+  //     image: '/images/chat.PNG',
+  //     tags: ['React', 'Express', 'Node'],
+  //   source: 'https://github.com/ericcapiz/chat',
+  //   visit: 'https://devs-chat.netlify.app/',
+  //   id: 12,
+  // },
   {
     title: 'Sigma Snap',
     description: "This app will allow users to register/log-in and upload a post that will contain an image, title, message and tags. Each post will render the users name and display how long ago the post was created.",
