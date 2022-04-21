@@ -1,23 +1,6 @@
 
 export const projects = [
-  // {
-  //   title: 'Dev Chat',
-  //   description: "This app will allow users to create chat channels. You can direct message other people. You can respond as normal or add a gif/image and even be able to use emjoi's. If a user signs up and adds their cell number, they can receive text notifications as well.",
-  //     image: '/images/chat.PNG',
-  //     tags: ['React', 'Express', 'Node'],
-  //   source: 'https://github.com/ericcapiz/chat',
-  //   visit: 'https://devs-chat.netlify.app/',
-  //   id: 12,
-  // },
-  {
-    title: 'Sigma Snap',
-    description: "This app will allow users to register/log-in and upload a post that will contain an image, title, message and tags. Each post will render the users name and display how long ago the post was created.",
-      image: '/images/snaps.PNG',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://github.com/ericcapiz/Sigma-Snaps',
-    visit: 'https://sigma-snaps.netlify.app/',
-    id: 0,
-  },
+  
   {
     title: 'Lost My Stuff',
     description: "A lost and found site for users to create posts for items lost or found. This is a MERN application that allows users to register/login and create posts for items. Users can update/delete their own posts. Users can display posts by category as well as by user if user has multiple posts.",
@@ -27,15 +10,7 @@ export const projects = [
     visit: 'https://lost-my-stuff.vercel.app/',
     id: 2,
   },
-  {
-    title: 'Crypto Info',
-    description: "This app will allow users to view current stats and news articles on various crypto currencies. Users can search for most crypto currencies to see stats, price changes, and news articles.",
-      image: '/images/crypto.PNG',
-      tags: ['React', 'Redux Toolkit', 'ANT Design', 'Rapid API'],
-    source: 'https://github.com/ericcapiz/crypto_info',
-    visit: 'https://crypto-inf.netlify.app/',
-    id: 212,
-  },
+ 
   {
     title: 'Food 4 Thought',
     description: "This app will allow users to search for ingredients and view different recipe cards for additional recipe info.",
@@ -89,4 +64,5 @@ export const TimeLineData = [
   { year: 2019, text: 'Decided to get back into the web dev field and start the self-taught path', },
   { year: 2020, text: 'Started Lambda School in their fullstack development program', },
   { year: 2021, text: 'Became a freelance developer', },
+  { year: 2021, text: 'Frontend Devloper for NexTech Solutions; OCT 2021-Present', },
 ];
