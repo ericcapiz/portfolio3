@@ -14,7 +14,7 @@ export const projects = [
   {
     title: 'Crypto Info',
     description: "This app will allow users to view current stats on various crypto currencies. Users can search for most crypto currencies to see stats, price changes. Users can login/register and then be able to save their favorite crypto currencies and view them on their account.",
-      image: '/images/c.PNG',
+      image: '/images/c.png',
       tags: ['React', 'Tailwind CSS', 'Firebase'],
     source: 'https://github.com/ericcapiz/crypto-info',
     visit: 'https://crypto-info2.netlify.app/',
