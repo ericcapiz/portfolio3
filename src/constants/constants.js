@@ -10,6 +10,16 @@ export const projects = [
     visit: 'https://lost-my-stuff.vercel.app/',
     id: 2,
   },
+
+  {
+    title: 'Crypto Info',
+    description: "This app will allow users to view current stats on various crypto currencies. Users can search for most crypto currencies to see stats, price changes. Users can login/register and then be able to save their favorite crypto currencies and view them on their account.",
+      image: '/images/c.PNG',
+      tags: ['React', 'Tailwind CSS', 'Firebase'],
+    source: 'https://github.com/ericcapiz/crypto-info',
+    visit: 'https://crypto-info2.netlify.app/',
+    id: 238972,
+  },
  
   {
     title: 'Food 4 Thought',
